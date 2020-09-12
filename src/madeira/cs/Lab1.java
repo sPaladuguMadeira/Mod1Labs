@@ -46,7 +46,6 @@ package madeira.cs;
              //   myString numberName =
                 System.out.println(myString.length());
 
-
                 String theString = "winter";
                 System.out.println(theString.charAt(0));
 
