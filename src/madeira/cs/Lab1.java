@@ -6,6 +6,12 @@ package madeira.cs;
          **/
 
         public class Lab1 {
+            /*
+                Grades and comments
+                10/10
+                Well done, extra brownie points for comments next time!
+
+             */
             public static void main(String[] args) {
 
                 // Part I code below

@@ -8,6 +8,12 @@ import java.util.Scanner;
         **/
 
 public class Lab2 {
+        /*
+            Grades and comments
+
+            10/10
+            Well done, add comments for extra clarity
+         */
         public static void main(String[] args) {
 
             // Part I code below
