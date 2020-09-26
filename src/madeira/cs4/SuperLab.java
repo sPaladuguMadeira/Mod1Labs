@@ -15,7 +15,7 @@ class Superlab {
     public static void main(String[] args) {
 
         try {
-            File artistFile = new File("/Users/SaanviPaladugu/Downloads/artistList.txt");
+            File artistFile = new File("/Users/saanvipaladugu/Downloads/artistList.txt");
             Scanner MyReader = new Scanner (artistFile);
             int numberArtists = MyReader.nextInt();
             String temp = MyReader.nextLine();

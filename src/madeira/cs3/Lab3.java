@@ -8,6 +8,18 @@ import java.util.Scanner;
          **/d
 
         public class Lab3 {
+            /*
+                Grades and comments below
+                -------------------------
+                Saanvi -
+                Good work here. The first two parts are great. Well organized code.
+                To get extra fancy next time, try allowing the user to input
+                lowercase or all uppercase months. For the last part, I mentioned in class
+                that the goal was to calculate the number of days they've lived based on the current
+                date, not to repeat the calculation from the last lab.
+
+
+            */
             public static void main(String [] args) {
 
                 // Part I code below
@@ -97,7 +109,13 @@ import java.util.Scanner;
                 }
 
                 // Part III code below
+                /*
 
+                    Like I mentioned in class, the goal was not to calculate age * 365
+                    You were meant to compare the age to the current date and
+                    find a more accurate estimate than age * 365
+
+                */
                 System.out.println("You have been alive for "+Age*365+ " days. :)");
 
             }
