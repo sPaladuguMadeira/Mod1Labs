@@ -4,12 +4,12 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-
 /**
  * Author: SAANVI_PALADUGU
  * Superlabbbbbb :)
  * 9/23/2020
  **/
+
 
 class Superlab {
     public static void main(String[] args) {
@@ -26,7 +26,7 @@ class Superlab {
                 Rating ++;
             }
 
-            
+
             MyReader.close();
             Artist [] artistOne = new Artist [numberArtists];
             Rating=0;

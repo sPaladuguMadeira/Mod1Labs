@@ -5,7 +5,7 @@ import java.util.Scanner;
         /**
          * Author: SAANVI_PALADUGU
          * 9/17/2020
-         **/
+         **/d
 
         public class Lab3 {
             public static void main(String [] args) {
